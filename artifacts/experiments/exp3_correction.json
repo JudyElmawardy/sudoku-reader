@@ -1,0 +1,23 @@
+{
+  "nn_guided": {
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "exact_mean": 0.86,
+    "exact_std": 0.3469870314579494,
+    "n": 50
+  },
+  "none": {
+    "solvable_mean": 0.02,
+    "solvable_std": 0.13999999999999999,
+    "exact_mean": 0.0,
+    "exact_std": 0.0,
+    "n": 50
+  },
+  "random": {
+    "solvable_mean": 0.02,
+    "solvable_std": 0.13999999999999999,
+    "exact_mean": 0.02,
+    "exact_std": 0.13999999999999999,
+    "n": 50
+  }
+}

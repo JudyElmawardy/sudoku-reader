@@ -1,0 +1,5 @@
+{
+  "cnn_test_acc": 0.9293333333333333,
+  "prototype_baseline_acc": 0.7573333333333333,
+  "temperature": 1.5
+}

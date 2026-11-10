@@ -1,0 +1,71 @@
+{
+  "BT": {
+    "25": {
+      "backtracks_mean": 39663.0,
+      "backtracks_std": 108941.35495516231,
+      "assignments_mean": 39719.0,
+      "assignments_std": 108941.35495516231,
+      "n": 15
+    },
+    "30": {
+      "backtracks_mean": 4128.866666666667,
+      "backtracks_std": 6307.55221266979,
+      "assignments_mean": 4179.866666666667,
+      "assignments_std": 6307.55221266979,
+      "n": 15
+    },
+    "35": {
+      "backtracks_mean": 610.8,
+      "backtracks_std": 899.2639360425095,
+      "assignments_mean": 656.8,
+      "assignments_std": 899.2639360425095,
+      "n": 15
+    }
+  },
+  "BT+FC": {
+    "25": {
+      "backtracks_mean": 114849.73333333334,
+      "backtracks_std": 306600.97635188454,
+      "assignments_mean": 114905.73333333334,
+      "assignments_std": 306600.97635188454,
+      "n": 15
+    },
+    "30": {
+      "backtracks_mean": 17989.866666666665,
+      "backtracks_std": 31908.515297888043,
+      "assignments_mean": 18040.866666666665,
+      "assignments_std": 31908.515297888043,
+      "n": 15
+    },
+    "35": {
+      "backtracks_mean": 2018.8666666666666,
+      "backtracks_std": 1929.448172117844,
+      "assignments_mean": 2064.866666666667,
+      "assignments_std": 1929.448172117844,
+      "n": 15
+    }
+  },
+  "BT+FC+AC3": {
+    "25": {
+      "backtracks_mean": 31.4,
+      "backtracks_std": 61.7195809015799,
+      "assignments_mean": 85.13333333333334,
+      "assignments_std": 62.65978685639531,
+      "n": 15
+    },
+    "30": {
+      "backtracks_mean": 10.066666666666666,
+      "backtracks_std": 21.35561336562877,
+      "assignments_mean": 51.733333333333334,
+      "assignments_std": 25.751289072372455,
+      "n": 15
+    },
+    "35": {
+      "backtracks_mean": 0.4,
+      "backtracks_std": 0.6110100926607788,
+      "assignments_mean": 21.4,
+      "assignments_std": 16.103001790556526,
+      "n": 15
+    }
+  }
+}

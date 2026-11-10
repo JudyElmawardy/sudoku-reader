@@ -1,0 +1,47 @@
+{
+  "0": {
+    "n": 20,
+    "exact_recovery_mean": 1.0,
+    "exact_recovery_std": 0.0,
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "nodes_mean": 0.0,
+    "nodes_std": 0.0
+  },
+  "1": {
+    "n": 20,
+    "exact_recovery_mean": 0.75,
+    "exact_recovery_std": 0.4330127018922193,
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "nodes_mean": 1.5,
+    "nodes_std": 0.8660254037844386
+  },
+  "2": {
+    "n": 20,
+    "exact_recovery_mean": 0.8,
+    "exact_recovery_std": 0.4,
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "nodes_mean": 3.4,
+    "nodes_std": 0.7999999999999999
+  },
+  "3": {
+    "n": 20,
+    "exact_recovery_mean": 0.65,
+    "exact_recovery_std": 0.4769696007084728,
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "nodes_mean": 5.85,
+    "nodes_std": 2.0316249653910043
+  },
+  "4": {
+    "n": 20,
+    "exact_recovery_mean": 0.45,
+    "exact_recovery_std": 0.49749371855331004,
+    "solvable_mean": 1.0,
+    "solvable_std": 0.0,
+    "nodes_mean": 8.4,
+    "nodes_std": 2.8178005607210745
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "ucs": {
+    "0": {
+      "nodes_mean": 0.0,
+      "nodes_std": 0.0,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 1.0,
+      "exact_std": 0.0,
+      "n": 25
+    },
+    "1": {
+      "nodes_mean": 1.84,
+      "nodes_std": 0.5425863986500215,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.92,
+      "exact_std": 0.2712931993250107,
+      "n": 25
+    },
+    "2": {
+      "nodes_mean": 2.96,
+      "nodes_std": 0.9991996797437438,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.68,
+      "exact_std": 0.466476151587624,
+      "n": 25
+    },
+    "3": {
+      "nodes_mean": 5.08,
+      "nodes_std": 1.7186040847152668,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.52,
+      "exact_std": 0.4995998398718719,
+      "n": 25
+    },
+    "4": {
+      "nodes_mean": 8.2,
+      "nodes_std": 3.63318042491699,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.48,
+      "exact_std": 0.4995998398718719,
+      "n": 25
+    }
+  },
+  "greedy": {
+    "0": {
+      "nodes_mean": 0.0,
+      "nodes_std": 0.0,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 1.0,
+      "exact_std": 0.0,
+      "n": 25
+    },
+    "1": {
+      "nodes_mean": 8.2,
+      "nodes_std": 15.67673435381234,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.6,
+      "exact_std": 0.48989794855663565,
+      "n": 25
+    },
+    "2": {
+      "nodes_mean": 13.88,
+      "nodes_std": 19.580234932196294,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.12,
+      "exact_std": 0.32496153618543844,
+      "n": 25
+    },
+    "3": {
+      "nodes_mean": 165.48,
+      "nodes_std": 501.5384427937703,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.0,
+      "exact_std": 0.0,
+      "n": 25
+    },
+    "4": {
+      "nodes_mean": 266.16,
+      "nodes_std": 557.9193260678464,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.0,
+      "exact_std": 0.0,
+      "n": 25
+    }
+  },
+  "astar": {
+    "0": {
+      "nodes_mean": 0.0,
+      "nodes_std": 0.0,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 1.0,
+      "exact_std": 0.0,
+      "n": 25
+    },
+    "1": {
+      "nodes_mean": 1.84,
+      "nodes_std": 0.5425863986500215,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.92,
+      "exact_std": 0.2712931993250107,
+      "n": 25
+    },
+    "2": {
+      "nodes_mean": 2.96,
+      "nodes_std": 0.9991996797437438,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.68,
+      "exact_std": 0.466476151587624,
+      "n": 25
+    },
+    "3": {
+      "nodes_mean": 5.12,
+      "nodes_std": 1.7045820602130013,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.52,
+      "exact_std": 0.4995998398718719,
+      "n": 25
+    },
+    "4": {
+      "nodes_mean": 8.24,
+      "nodes_std": 3.6362618167563237,
+      "solvable_mean": 1.0,
+      "solvable_std": 0.0,
+      "exact_mean": 0.48,
+      "exact_std": 0.4995998398718719,
+      "n": 25
+    }
+  }
+}
