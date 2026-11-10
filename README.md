@@ -1,4 +1,4 @@
-# P7. Handwritten Sudoku Reader and Solver
+Handwritten Sudoku Reader and Solver
 
 A system that reads a Sudoku written with handwritten digits (MNIST-style), detects and corrects the most likely misreads using search, and solves the resulting puzzle with a CSP solver that supports Backtracking, Forward Checking and AC-3.
 
